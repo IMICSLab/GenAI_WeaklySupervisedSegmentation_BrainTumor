@@ -3,18 +3,23 @@ Code for training and running weakly supervised brain tumor segmentation models 
 
 ![Flowchart](flowchart.png)
 
-Please see [Generative Adversarial Networks for Weakly Supervised Generation and Evaluation of Brain Tumor Segmentations on MR Images](https://arxiv.org/abs/2211.05269) for details.
+Please see [Generative Adversarial Networks for Weakly Supervised Generation and Evaluation of Brain Tumor Segmentations on MR Images](https://rdcu.be/eOqUF) for details.
 
 If you use this code, please cite:
 ```
-@misc{yoo2024generativeadversarialnetworksweakly,
-      title={Generative Adversarial Networks for Weakly Supervised Generation and Evaluation of Brain Tumor Segmentations on MR Images}, 
-      author={Jay J. Yoo and Khashayar Namdar and Matthias W. Wagner and Liana Nobre and Uri Tabori and Cynthia Hawkins and Birgit B. Ertl-Wagner and Farzad Khalvati},
-      year={2024},
-      eprint={2211.05269},
-      archivePrefix={arXiv},
-      primaryClass={eess.IV},
-      url={https://arxiv.org/abs/2211.05269}, 
+@article{yoo2025generativeadversarialnetworksweakly,
+title={Generative AI for weakly supervised segmentation and downstream classification of brain tumors on MR images},
+volume={15},
+ISSN={2045-2322},
+url={https://www.nature.com/articles/s41598-025-06741-z},
+DOI={10.1038/s41598-025-06741-z},
+number={1},
+journal={Scientific Reports},
+author={Yoo, Jay J. and Namdar, Khashayar and Wagner, Matthias W. and Yeom, Kristen W. and Nobre, Liana F. and Tabori, Uri and Hawkins, Cynthia and Ertl-Wagner, Birgit B. and Khalvati, Farzad},
+year={2025},
+month=jul,
+pages={22160},
+language={en}
 }
 ```
 
